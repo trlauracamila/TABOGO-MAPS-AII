@@ -1,0 +1,23 @@
+# Secretos
+.env
+*.env
+!.env.example
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Base de datos local
+*.db
+
+# Node
+node_modules/
+dist/
+
+# Archivos pesados de prueba
+*.jpeg
+*.jpg
+!frontend/public/*.jpg

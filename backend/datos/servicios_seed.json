@@ -1,0 +1,18 @@
+[
+  {"nombre": "Plaza de Bolívar", "categoria": "turismo", "descripcion": "Plaza principal del centro histórico de Bogotá", "direccion": "Carrera 7 con Calle 11, La Candelaria", "lat": 4.5981, "lon": -74.0760, "horario": "24 horas"},
+  {"nombre": "Museo del Oro", "categoria": "turismo", "descripcion": "Museo del Banco de la República", "direccion": "Carrera 6 #15-88, Santa Fe", "lat": 4.6019, "lon": -74.0719, "horario": "Mar-Sáb 9:00-18:00, Dom 10:00-17:00"},
+  {"nombre": "Biblioteca Luis Ángel Arango", "categoria": "turismo", "descripcion": "Biblioteca y centro cultural", "direccion": "Calle 11 #4-14, La Candelaria", "lat": 4.5972, "lon": -74.0733, "horario": "Lun-Sáb 8:00-20:00"},
+  {"nombre": "Cerro de Monserrate", "categoria": "turismo", "descripcion": "Cerro con santuario, teleférico y funicular", "direccion": "Carrera 2 Este #21-48", "lat": 4.6059, "lon": -74.0560, "horario": "Según operación del teleférico"},
+  {"nombre": "Parque de la 93", "categoria": "turismo", "descripcion": "Parque y zona gastronómica del norte", "direccion": "Carrera 13 con Calle 93A", "lat": 4.6762, "lon": -74.0485, "horario": "24 horas"},
+  {"nombre": "Parque Metropolitano Simón Bolívar", "categoria": "turismo", "descripcion": "Gran parque urbano de la ciudad", "direccion": "Calle 63 con Carrera 68", "lat": 4.6586, "lon": -74.0937, "horario": "5:00-19:00"},
+  {"nombre": "Universidad Nacional de Colombia (sede Bogotá)", "categoria": "educacion", "descripcion": "Campus universitario público", "direccion": "Carrera 30 #45-03", "lat": 4.6382, "lon": -74.0840, "horario": "Lun-Sáb 6:00-21:00"},
+  {"nombre": "Terminal de Transporte de Bogotá (Salitre)", "categoria": "transporte_publico", "descripcion": "Terminal de buses intermunicipales", "direccion": "Diagonal 23 #69-60", "lat": 4.6544, "lon": -74.1170, "horario": "24 horas"},
+  {"nombre": "Aeropuerto Internacional El Dorado", "categoria": "transporte_publico", "descripcion": "Aeropuerto principal de Bogotá", "direccion": "Av. El Dorado #103-9", "lat": 4.7016, "lon": -74.1469, "horario": "24 horas"},
+  {"nombre": "Portal Norte TransMilenio", "categoria": "transporte_publico", "descripcion": "Portal de cabecera del sistema TransMilenio", "direccion": "Autopista Norte con Calle 174", "lat": 4.7544, "lon": -74.0453, "horario": "4:00-23:00"},
+  {"nombre": "Estación de servicio de ejemplo - Centro", "categoria": "combustible", "descripcion": "Dato de ejemplo editable (zona centro)", "direccion": "Zona centro (ejemplo)", "lat": 4.6090, "lon": -74.0780, "horario": "24 horas"},
+  {"nombre": "Estación de servicio de ejemplo - Norte", "categoria": "combustible", "descripcion": "Dato de ejemplo editable (zona norte)", "direccion": "Zona norte (ejemplo)", "lat": 4.6850, "lon": -74.0500, "horario": "24 horas"},
+  {"nombre": "Punto de carga eléctrica de ejemplo - Chapinero", "categoria": "carga_electrica", "descripcion": "Dato de ejemplo editable", "direccion": "Chapinero (ejemplo)", "lat": 4.6486, "lon": -74.0628, "horario": "6:00-22:00"},
+  {"nombre": "Parqueadero de ejemplo - Centro Internacional", "categoria": "parqueadero", "descripcion": "Dato de ejemplo editable", "direccion": "Centro Internacional (ejemplo)", "lat": 4.6123, "lon": -74.0700, "horario": "24 horas"},
+  {"nombre": "Hospital de ejemplo - Teusaquillo", "categoria": "salud", "descripcion": "Dato de ejemplo editable", "direccion": "Teusaquillo (ejemplo)", "lat": 4.6330, "lon": -74.0780, "horario": "24 horas"},
+  {"nombre": "CAI de ejemplo - Candelaria", "categoria": "seguridad", "descripcion": "Dato de ejemplo editable", "direccion": "La Candelaria (ejemplo)", "lat": 4.5990, "lon": -74.0745, "horario": "24 horas"}
+]
